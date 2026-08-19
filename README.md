@@ -40,6 +40,8 @@ covered by the public suites.
 ## License and scope
 
 The code in this repository is released under the [MIT License](LICENSE.md).
+See [LICENSING.md](LICENSING.md) for the explicit boundary between the code,
+the book/PDF content and QuantJourney brand assets.
 It is educational material and is provided without warranty. Examples,
 datasets, backtests and model outputs are illustrative; validate them
 independently before any production or investment use.
