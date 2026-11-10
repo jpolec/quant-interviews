@@ -6,7 +6,26 @@ examples in Python, C++20 and SQL, organized by the book's fourteen chapters.
 
 This repository intentionally contains code and code tests only. It does not
 contain the manuscript source, book-production files or rendered PDF editions.
-The chapter PDFs are available free from the book website.
+The complete book and individual chapter PDFs are available free from the book website.
+
+## Get the book
+
+<a href="https://quant-interviews.quantjourney.cloud/">
+  <img src=".github/assets/quant-interviews-cover.webp" alt="Quant Interviews by Jakub Polec" width="260">
+</a>
+
+**Two volumes, one complete book by Jakub Polec.**
+
+| Volume | Chapters | Topics |
+| --- | --- | --- |
+| **I — Mathematics & Markets** | CH01–CH07 | Probability, statistics, linear algebra, numerical methods, stochastic processes, derivatives, volatility, rates and credit. |
+| **II — Research & Systems** | CH08–CH14 | Time series, machine learning, portfolio construction, execution, programming, production systems and interview practice. |
+
+- **[Get both volumes — free PDF](https://quant-interviews.quantjourney.cloud/#downloads)**. The website sends the download link by email. It includes both volumes and the fourteen individual chapter PDFs.
+- **[Browse all fourteen chapters](https://quant-interviews.quantjourney.cloud/#contents)** and their interview questions.
+- **[Get the printed two-volume set](https://quant-interviews.quantjourney.cloud/#print-edition)**.
+
+This repository supplies the Python, C++20 and SQL implementations that accompany the book.
 
 ## Contents
 
